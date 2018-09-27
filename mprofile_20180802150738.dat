@@ -1,0 +1,4 @@
+CMDLINE /Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 matrix.py
+MEM 0.285156 1533193658.0885
+MEM 11.656250 1533193658.1898
+MEM 15.011719 1533193658.2904
